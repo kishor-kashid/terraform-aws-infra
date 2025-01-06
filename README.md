@@ -31,3 +31,7 @@ $ aws acm import-certificate \
     --certificate fileb://demo_kishorkashid_me.crt \
     --private-key fileb://demo.key \
     --certificate-chain fileb://demo_kishorkashid_me.ca-bundle
+
+### Infrastrucure architectural diagram-
+
+![infra_architecture](infra_architecture.jpg)
